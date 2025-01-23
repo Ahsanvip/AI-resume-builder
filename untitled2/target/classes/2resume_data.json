@@ -1,0 +1,45 @@
+{
+    "name": "Muhammad Ahsan",
+    "email": "ahsanp899@gmail.com",
+    "phone": "0322-9223388",
+    "linkedin": "www.linkedin.com/in/ahsan-vip",
+    "github": "https://github.com/Ahsanvip",
+    "summary": "Motivated Machine Learning enthusiast with expertise in end-to-end ML solutions. Skilled in data preprocessing, model evaluation, and problem-solving. Seeking an Associate Software Engineer position in ML/AI to apply and expand technical skills.",
+    "experiences": [
+        {
+            "job_title": "Open Source Developer",
+            "company": "github.com",
+            "start_date": "2024",
+            "end_date": "2025",
+            "responsibilities": "Built a comprehensive project on customer churn prediction using Dense Neural Networks, showcasing proficiency in deep learning methodologies. Utilized TensorFlow and Keras for efficient model implementation, ensuring scalability and accuracy. Conducted an in-depth analysis of customer data to identify key churn indicators and improve retention strategies. Developed and fine-tuned the model to achieve significant accuracy improvements. Integrated visualizations to interpret model predictions, providing actionable insights for customer engagement. Built a model for sleep disorder prediction with Random Forest (87% accuracy), utilizing preprocessing pipelines and visualized insights with Matplotlib. Predicted mood categories (Positive, Neutral, Negative) using Logistic Regression, conducting feature engineering and preprocessing to improve performance. Developed a book genre preference prediction model with Random Forest, implementing efficient encoding and preprocessing via ColumnTransformer. Built an MNIST handwritten digit classification model using CNNs in TensorFlow, achieving high accuracy through hyperparameter tuning and dropout optimization. Created a reusable ML pipeline for data cleaning and transformation tasks, applying the pipeline to various datasets for versatile use cases."
+        }
+    ],
+    "skills": [
+        "Machine Learning & AI Predictive Analytics: Time Series Forecasting",
+        " Regression Models Recommendation Systems: Collaborative Filtering",
+        " Matrix Factorization",
+        " Hybrid Systems Speech and Audio Processing: Audio Classification",
+        " Speech Recognition",
+        " NLP Frameworks & Tools TensorFlow",
+        " Keras",
+        " Scikit-Learn",
+        " PyTorch NLP Frameworks: Hugging Face",
+        " SpaCy Audio Processing: Librosa",
+        " SpeechRecognition Data Manipulation & Engineering Python (NumPy",
+        " Pandas",
+        " Matplotlib",
+        " Plotly) SQL",
+        " Feature Engineering",
+        " Big Data Technologies (Spark",
+        " Hadoop) Deployment & Monitoring Cloud Platforms: AWS (SageMaker)",
+        " Google Cloud AI Platform",
+        " Azure ML Model Lifecycle Management: Deployment",
+        " Monitoring",
+        " A/B Testing"
+    ],
+    "Job_description": "Devsinc is looking for a talented Software Engineer (AI/ML) to join our innovative team. In this role, you will have the opportunity to work on cutting-edge artificial intelligence and machine learning projects that impact our products and services. You will collaborate with experienced engineers and data scientists to develop and implement AI-driven solutions that enhance user experience and increase operational efficiency.\n\nResponsibilities:\n\nDesign, develop, and implement machine learning models and algorithms to solve complex problems\nPerform data preprocessing and feature engineering to prepare data for analysis and model training\nCollaborate with cross-functional teams to understand project requirements and deliver effective AI solutions\nEvaluate the performance of models and fine-tune algorithms to optimize results\nDocument processes, methodologies, and results for future reference and knowledge sharing\nStay current with the latest developments in AI and machine learning technologies\n\n\nRequirements\n\nRequirements:\n\nExperience: 1-2 years Bachelor's degree in Computer Science, Data Science, or a related field\nStrong programming skills in languages such as Python, Java, or C\nFamiliarity with machine learning frameworks (e.g., TensorFlow, PyTorch, Scikit-learn)\nUnderstanding of fundamental concepts in machine learning and artificial intelligence\nHands-on experience with data manipulation and analysis tools (e.g., Pandas, NumPy)\nAbility to work collaboratively in a team environment\nExcellent problem-solving and analytical skills\nPrevious experience with AI/ML projects is advantageous but not required\n\n\nBenefits\n\nPrivate Health Insurance\nPension Plan\nPaid Time Off\nWork From Home\nTraining & Development\nPerformance Bonus",
+    "keywords": "Software Engineer, AI, ML, Machine Learning, Artificial Intelligence, Python, Java, C, TensorFlow, PyTorch, Scikit-learn, Data Science, Data Preprocessing, Feature Engineering, Data Analysis, Algorithm Development, Model Training, Collaboration, Problem-Solving, Analytical Skills, Data Manipulation, Pandas, NumPy, Team Environment, AI/ML Projects, Computer Science.",
+    "profile": "Name: Muhammad Ahsan\nEmail: ahsanp899@gmail.com\nPhone: 0322-9223388\nLinkedIn: www.linkedin.com/in/ahsan-vip\nGitHub: https://github.com/Ahsanvip\nSummary: Results-driven Software Engineer with strong proficiency in AI and ML, leveraging Python, Java, and C to develop and deploy scalable models using TensorFlow, PyTorch, and Scikit-learn. Adept in data science, data analysis, and algorithm development, with a solid foundation in computer science and a passion for collaborating on innovative AI/ML projects, driving data-driven solutions, and fostering a team environment.",
+    "experience_section": "Software Engineer with expertise in AI and ML, utilizing Python, TensorFlow, and PyTorch to develop predictive models. Proficient in data science, preprocessing, feature engineering, and algorithm development. Utilized scikit-learn, Pandas, and NumPy for data manipulation and analysis. Collaborated on projects, applying problem-solving and analytical skills in a team environment. Developed and trained models, including customer churn prediction, sleep disorder prediction, mood category prediction, and handwritten digit classification, achieving high accuracy through hyperparameter tuning and optimization.",
+    "skills_section": "Machine Learning, Artificial Intelligence, Python, Java, C, TensorFlow, PyTorch, Data Science, Data Analysis, Algorithm Development"
+}
